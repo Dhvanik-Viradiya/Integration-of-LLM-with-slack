@@ -2,3 +2,10 @@ slackclient
 python-dotenv
 Flask
 slackeventsapi
+g4f
+slack_bolt
+slack_sdk
+
+langchain
+playwright
+unstructured
